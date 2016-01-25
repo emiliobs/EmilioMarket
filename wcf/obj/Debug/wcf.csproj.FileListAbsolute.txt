@@ -1,0 +1,10 @@
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\wcf.dll.config
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\wcf.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\wcf.pdb
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\obj\Debug\wcf.csprojResolveAssemblyReference.cache
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\obj\Debug\wcf.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\obj\Debug\wcf.pdb
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\EntityFramework.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\EntityFramework.SqlServer.dll
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\EntityFramework.xml
+C:\Users\Emilio\Documents\Visual Studio 2015\Projects\EmilioMarket\wcf\bin\EntityFramework.SqlServer.xml
